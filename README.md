@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis & Network Prediction
+# 📊 Telecom Customer Churn Analysis with Prediction
 
 ## 📌 Overview
 This project analyzes telecom customer data to uncover insights into network performance, customer behavior, and billing patterns. It integrates Excel, SQL, Python, and Machine Learning to build an end-to-end data analysis and prediction pipeline.
